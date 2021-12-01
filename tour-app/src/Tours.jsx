@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import Loading from './Loading';
 
 const Tours = ({ tours }) => {
 
